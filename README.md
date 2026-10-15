@@ -21,9 +21,9 @@ quadro de pedidos, clique em **Baixar para computador**.
 Se aparecer "O Windows protegeu o computador", clique em **Mais informações**
 e depois em **Executar assim mesmo**.
 
-**Mac:** arraste o Gestor para a pasta **Aplicativos**. Se o Mac não deixar
-abrir, vá em **Ajustes do Sistema → Privacidade e Segurança** e clique em
-**Abrir Mesmo Assim**.
+**Mac:** arraste o Gestor para a pasta **Aplicativos**. Na primeira vez, o Mac
+pergunta se você quer abrir um programa baixado da internet: clique em
+**Abrir**. (O programa de Mac é assinado pela Stylenow e conferido pela Apple.)
 
 Depois, é só entrar com o mesmo e-mail e senha de sempre.
 
